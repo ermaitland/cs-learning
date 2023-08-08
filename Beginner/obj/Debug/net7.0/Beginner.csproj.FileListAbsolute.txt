@@ -1,0 +1,15 @@
+/Users/eleanormaitland/Projects/Beginner/Beginner/bin/Debug/net7.0/Beginner
+/Users/eleanormaitland/Projects/Beginner/Beginner/bin/Debug/net7.0/Beginner.deps.json
+/Users/eleanormaitland/Projects/Beginner/Beginner/bin/Debug/net7.0/Beginner.runtimeconfig.json
+/Users/eleanormaitland/Projects/Beginner/Beginner/bin/Debug/net7.0/Beginner.dll
+/Users/eleanormaitland/Projects/Beginner/Beginner/bin/Debug/net7.0/Beginner.pdb
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.csproj.AssemblyReference.cache
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.AssemblyInfoInputs.cache
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.AssemblyInfo.cs
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.csproj.CoreCompileInputs.cache
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.dll
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/refint/Beginner.dll
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.pdb
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/Beginner.genruntimeconfig.cache
+/Users/eleanormaitland/Projects/Beginner/Beginner/obj/Debug/net7.0/ref/Beginner.dll
